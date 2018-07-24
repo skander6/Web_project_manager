@@ -1,0 +1,17 @@
+body{
+	background-image: url("back.jpg");
+}
+div{border-width:5px;
+border-style:solid;
+width:40%;
+position:relative;
+    left: 30%;
+	top:30%;
+}
+input {
+    line-height: 20px;
+}
+#contact-submit{
+	margin-left:80%;
+
+}
